@@ -29,6 +29,7 @@
         },
         "vmSize": {
             "type": "string",
+            "defaultValue": "Standard_D2ds_v5",
             "metadata": {
                 "description": "The size of the VM"
             }
